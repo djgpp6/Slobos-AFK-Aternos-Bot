@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maroonrk.aternos.me",
-    "port": 62730,
+    "ip": "damonsalvatorfr.aternos.me",
+    "port": 13829,
     "version": "",
     "try-creative": false
   },
